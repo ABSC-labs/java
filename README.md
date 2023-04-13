@@ -29,6 +29,6 @@ This project uses an in memory dictionary/map to persist data during runtime. Th
   * Create an endpoint on PersonResource to delete a Person
     * Path - `/person/{id}`
     * Returns a Person object
-* Architecture
+* Architecture (Extra Credit)
   * Create a new docker image that is able to run the application
   * Create a NGINX reverse proxy that allows a user to use `http://localhost/` for application access.
